@@ -1,6 +1,6 @@
-# ☕ Coffee and Nulls
+# OGZRealm
 
-Welcome to **CoffeeAndNulls** — a cozy corner of the internet where caffeine meets code and dreams turn into pixels. 🎮
+Welcome to **OGZRealm** — a cozy corner of the internet where caffeine meets code and dreams turn into pixels. 🎮
 
 I'm **Oğuz**, an indie game dev from **Turkey** who just hit "New Game" on his Unity journey. My ultimate goal? Become a full-time game developer by **2028**
 
@@ -8,7 +8,7 @@ I'm **Oğuz**, an indie game dev from **Turkey** who just hit "New Game" on his 
 
 🎯 Build small but meaningful games  
 🧠 Learn Unity step by step — from Game Loops to UI Toolkit  
-🎥 Document everything on YouTube [@CoffeeAndNulls](https://youtube.com/@coffeeandnulls)  
+🎥 Document everything on YouTube [@OGZRealm](https://youtube.com/@ogzrealm)  
 🌍 Connect with global devs, share the journey, inspire others  
 
 ## 🛠 What You'll Find Here
@@ -21,10 +21,10 @@ I'm **Oğuz**, an indie game dev from **Turkey** who just hit "New Game" on his 
 
 ## 🌐 Find Me Online
 
-- 🌐 [Website](https://oarslan.com)
-- 🎧 [YouTube](https://youtube.com/@coffeeandnulls)
-- 📸 [Instagram](https://instagram.com/coffeeandnulls)
-- 🎮 [Itch.io](https://coffeeandnulls.itch.io/)
+- 🌐 [Website](https://ogzrealm.com)
+- 🎧 [YouTube](https://youtube.com/@ogzrealm)
+- 📸 [Instagram](https://instagram.com/ogzrealm)
+- 🎮 [Itch.io](https://ogzrealm.itch.io/)
 
 
 ---
